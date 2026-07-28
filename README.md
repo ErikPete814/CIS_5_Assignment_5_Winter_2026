@@ -24,3 +24,22 @@ Deliverable:
 
 Reminder: 
 I am not only grading for completion but for understanding as well, if you are unable to explain what your code does, even if you have a working solution, I won't be able to give you full points / assumed you just used AI to comeplete the assignment for you. 
+
+#Author 
+- Erik Petersen
+
+# CIS_5_Assignment_5_Winter_2026
+
+## Description
+
+This program uses a `Student` structure and a menu to manage student records.
+
+The program can:
+
+* Find the highest grade
+* Find the lowest grade
+* Calculate the average grade
+* Print all student IDs
+* Print all student names
+
+Youtube Link: 
